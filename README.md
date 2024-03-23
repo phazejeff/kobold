@@ -1,3 +1,10 @@
+# NOTE
+This is a reupload of a repo called formally called kobold, which is now [katsuba](https://github.com/vbe0201/katsuba). I take no credit for the code in this repo and all credit goes to katsuba. This reupload is merely so that moonlight will work.
+
+To install the python bindings, run `cargo install --path ./src/kobold-py`
+
+Below this line is the original README
+
 # Kobold
 
 Kobold is a tool for deserializing, extracting and inspecting various file
